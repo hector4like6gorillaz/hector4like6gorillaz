@@ -82,3 +82,5 @@ I’m constantly improving how I design systems, not just how I implement featur
 - Better developer experience through tooling and abstractions
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hector4like6gorillaz)](https://github.com/anuraghazra/github-readme-stats)
